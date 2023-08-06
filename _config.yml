@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=JSS93dsAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :  "ammy.mengyu.pan0725@gmail.com"
+  email            : "ammy.mengyu.pan0725@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AmmyDK/"
+  github           : "https://github.com/AmmyDK"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mengyu-pan-a51272141/"
+  linkedin         : "https://www.linkedin.com/in/mengyu-pan-a51272141"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
