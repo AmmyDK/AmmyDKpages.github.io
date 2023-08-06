@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoming Ran"
-  avatar           : "WindEurope.png"
-  bio              : "PhD candidate at IMT, NTNU"
-  location         : "Trondheim, Norway"
+  name             : "Mengyu Pan"
+  avatar           : "xxx.png"
+  bio              : "xxx"
+  location         : "Malmö, Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "xm_ran@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JSS93dsAAAAJ&view_op=list_works&sortby=pubdate"
+  email            :  "ammy.mengyu.pan0725@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/AmmyDK/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xiaoming-ran-025b16b3"
+  linkedin         : "https://www.linkedin.com/in/mengyu-pan-a51272141/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
