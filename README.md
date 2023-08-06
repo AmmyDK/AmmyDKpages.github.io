@@ -1,5 +1,4 @@
-# <p align="center">
-  <center><h1>Mengyu's private homepage</h1></center>
-</p>
+## **This is my private academic website**
 
-   this is my private academic website
+you could click the [following page](https://ammydk.github.io/AmmyDKpages.github.io/) to visit it.
+   
