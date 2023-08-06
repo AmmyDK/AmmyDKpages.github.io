@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Mengyu Pan_CV_2023.pdf
+permalink: https://github.com/AmmyDK/ammydk.github.io/blob/master/files/Mengyu%20Pan_CV_2023.pdf
 excerpt: 'This is my current CV.'
 author_profile: true
 redirect_from:
